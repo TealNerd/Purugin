@@ -10,7 +10,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <purugin.version>0.8.0</purugin.version>
-    <minecraft.version>1.10.2</minecraft.version>
+    <minecraft.version>1.10.2-SNAPSHOT</minecraft.version>
     <bukkit.version>1.10.2-R0.1-SNAPSHOT</bukkit.version>
     <jruby.version>1.7.21</jruby.version>
   </properties>
